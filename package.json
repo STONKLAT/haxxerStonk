@@ -1,0 +1,11 @@
+{
+  "name": "haxxer",
+  "main": "index.ts",
+  "scripts": {
+    "test": "node --loader ts-node/esm ./src/index.ts"
+  },
+  "author": "stonklat",
+  "type": "module",
+  "license": "ISC"
+  
+}
